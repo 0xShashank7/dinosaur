@@ -1,0 +1,28 @@
+body{
+    background-color: lightsalmon;
+    margin: 0;
+}
+
+header{
+    background-color: darkred;
+    color: lightyellow;
+    text-align: center;
+    padding: 25px 0px;
+    margin-bottom: 25px;
+}
+main{
+    background-color: darkred;
+    color: lightyellow;
+    
+    margin: 0px auto;
+    width: 800px;
+    padding: 50px;
+    border: solid white 5px;
+}
+footer{
+    background-color: darkred;
+    color: lightyellow;
+    text-align: center;
+    padding: 25px 0px;
+    margin-top: 25px;
+}
